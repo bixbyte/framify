@@ -1,0 +1,24 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "A bixbyte frame database connection module for postgresql and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thebixbyte/framify.git"
+  },
+  "keywords": [
+    "bixbyte",
+    "bixbyte",
+    "db"
+  ],
+  "author": "Bixbyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebixbyte/framify/issues"
+  },
+  "homepage": "https://github.com/thebixbyte/framify#readme"
+}
