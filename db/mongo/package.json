@@ -1,0 +1,15 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Simple Bixbyte MongoDB Handle",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bixbyte",
+  "license": "ISC"
+}
