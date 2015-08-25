@@ -10,8 +10,14 @@ console.log(  mongo  );*/
 
 
 //!Postgres instance
-var pg = db("postgres","database_name", "user_name", "Password");
-console.log( pg );
+var pg = db("postgres","codepamoja", "postgres",  "");
+console.log( conn );
+
+setTimeout(function(){
+    process.conn.query("SELECT * FROM entitys", function( err,done ){
+        console.log(done);
+    }, 7000);
+})
 
 
 /*//!Madness instance
